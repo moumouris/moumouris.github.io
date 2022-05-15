@@ -1,0 +1,43 @@
+
+
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    margin: 0px auto;
+    text-align: center;
+    background-image: url("./assets/images/pattern.jpeg");
+    margin: 40px 10px;
+}
+
+.post-title {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+
+}
+
+
+
+.post-link {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+#first-post-title {
+    background-color: mediumspringgreen;
+}
+
+#second-post-title {
+    background-color: lightcoral;
+}
+
+
+#third-post-title {
+    background-color: skyblue;
+
+}
+
